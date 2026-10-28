@@ -1,0 +1,4 @@
+USAGE GLM-5.3-FlashX-Free-Desktop
+glm 5.3 flashx. huggingface. openrouter.
+Extract. Run. See readme.
+Stamp rev-w9sn0u-20261028
